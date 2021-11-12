@@ -1,4 +1,5 @@
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en
-User-Agent: Scrapy/2.4.1 (+https://scrapy.org)
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
 Accept-Encoding: gzip, deflate
+Cookie: ak_bmsc=E09F60534F3BBF9D01803D2A4EA1C1BE~000000000000000000000000000000~YAAQBXPCF9AJC+58AQAAo5+4DQ31Cq0rNn+l6F1S1gkAavSuSZ5dsZycplBm+tK8Tn7bI89bV3u0vvswZ+atlq9biLRvnmajwFCRn0Cjmi5ZKIRB99lwGkaq0OuptqbTVhhqKGcYn6YM66ZQ5o/3Sj5UDDjBKvZ+QKPdTZqaPvFdauO5iwVM0G9SowQuqqJP3F8TNQ/IJcns4giSzLEgjLF1CjoEFh2OMkGh1R+wD6SfpAQPGbM9bZaJwygpLV0/QLHPwFG2rg7toGbP3rYcl6KxV0Jzfx7VJAD2kxkgLreSapCNYR1eRvfv7YbbtdV4rmAM+YRMy3TZJQAE5ONtKIWmaFe6GpErnGIvOjvq1pneUaErv/qrEM0445q6Suc=

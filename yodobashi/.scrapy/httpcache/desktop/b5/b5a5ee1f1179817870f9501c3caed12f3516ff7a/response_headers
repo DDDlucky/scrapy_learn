@@ -4,14 +4,15 @@ X-Xss-Protection: 1
 X-Content-Type-Options: nosniff
 Content-Security-Policy: upgrade-insecure-requests
 Content-Security-Policy-Report-Only: connect-src https:; report-uri https://www.yodobashi.com/ws/api/ap/csp/report
-Last-Modified: Thu, 20 Aug 2009 07:34:18 GMT
-Etag: "4134e-0-4718dc77c9280"
+Last-Modified: Thu, 20 Aug 2009 07:33:38 GMT
+Etag: "1c17f6-0-4718dc51a3880"
 Accept-Ranges: bytes
 Vary: Accept-Encoding,User-Agent
 Content-Encoding: gzip
 X-Cnection: close
 Content-Type: text/plain; charset=UTF-8
-Date: Tue, 09 Nov 2021 05:04:39 GMT
+Date: Thu, 11 Nov 2021 06:39:03 GMT
 Server-Timing: cdn-cache; desc=MISS
-Server-Timing: edge; dur=2
-Server-Timing: origin; dur=10
+Server-Timing: edge; dur=10
+Server-Timing: origin; dur=2
+Set-Cookie: ak_bmsc=E09F60534F3BBF9D01803D2A4EA1C1BE~000000000000000000000000000000~YAAQBXPCF9AJC+58AQAAo5+4DQ31Cq0rNn+l6F1S1gkAavSuSZ5dsZycplBm+tK8Tn7bI89bV3u0vvswZ+atlq9biLRvnmajwFCRn0Cjmi5ZKIRB99lwGkaq0OuptqbTVhhqKGcYn6YM66ZQ5o/3Sj5UDDjBKvZ+QKPdTZqaPvFdauO5iwVM0G9SowQuqqJP3F8TNQ/IJcns4giSzLEgjLF1CjoEFh2OMkGh1R+wD6SfpAQPGbM9bZaJwygpLV0/QLHPwFG2rg7toGbP3rYcl6KxV0Jzfx7VJAD2kxkgLreSapCNYR1eRvfv7YbbtdV4rmAM+YRMy3TZJQAE5ONtKIWmaFe6GpErnGIvOjvq1pneUaErv/qrEM0445q6Suc=; Domain=.yodobashi.com; Path=/; Expires=Thu, 11 Nov 2021 08:39:03 GMT; Max-Age=7200; HttpOnly

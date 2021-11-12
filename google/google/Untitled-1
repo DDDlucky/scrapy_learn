@@ -1,0 +1,20 @@
+DEBUG: Crawled (200) <GET http://www.google.com/?hl=ja> (referer: None)
+2021-11-12 12:26:23 [scrapy.core.scraper] ERROR: Spider error processing <GET http://www.google.com/?hl=ja> (referer: None)
+Traceback (most recent call last):
+  File "/Users/do/.pyenv/versions/anaconda3-2019.10/envs/scrapy_env/lib/python3.8/site-packages/twisted/internet/defer.py", line 858, in _runCallbacks
+    current.result = callback(  # type: ignore[misc]
+  File "/Users/do/Desktop/projects/google/google/spiders/google_python.py", line 15, in parse
+    driver = response.meta['driver']
+KeyError: 'driver'
+2021-11-12 12:26:23 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-11-12 12:26:23 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 220,
+
+
+
+do@*noMacBook-Air selenium % python .\selenium_test.py
+/Users/do/.pyenv/versions/anaconda3-2019.10/bin/python: can't open file '.selenium_test.py': [Errno 2] No such file or directory
+do@*noMacBook-Air selenium % python .¥selenium_test.py
+/Users/do/.pyenv/versions/anaconda3-2019.10/bin/python: can't open file '.¥selenium_test.py': [Errno 2] No such file or directory
+do@*noMacBook-Air selenium % python selenium_test.py
+selenium_test.py:4: DeprecationWarning: executable_path has been deprecated, please
